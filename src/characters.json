@@ -1972,8 +1972,8 @@
         },
         "cmd": {
             "valid": true,
-            "arg": "&#x2011",
-            "subtitle": "&#x2011 → Copy HTML Numeric Character Reference (Hex)"
+            "arg": "&#x2011;",
+            "subtitle": "&#x2011; → Copy HTML Numeric Character Reference (Hex)"
         }
     }
   },
